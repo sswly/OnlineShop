@@ -5,4 +5,4 @@ Online shop for http://shop.paipai.com/14403625/
 
 List of products
 ----------------
-![Foo](http://pai6.qpic.cn/paipai/h59EQZU2aicQmPqlDkjqzuprbTCicQ8UwtnfhXBJRIUPI/2000)
+![Foo](https://onedrive.live.com/redir?resid=EBE0E84347DB42BE!37555&authkey=!APnodFADFsdwiUI&v=3&ithint=photo%2c.png)
