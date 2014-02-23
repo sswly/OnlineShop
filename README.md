@@ -5,4 +5,4 @@ Online shop for http://shop.paipai.com/14403625/
 
 List of products
 ----------------
-[Foo](http://img1.paipaiimg.com/00000000/item-5306EB41-29C8DB000000000004010000368C5CD9.0.160x160.jpg)
+![Foo](http://img2.ph.126.net/U1vUCn0T4jeC6Zemuj2noQ==/857372779160789393.jpg)
